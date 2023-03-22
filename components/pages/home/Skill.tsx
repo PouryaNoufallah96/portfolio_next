@@ -20,6 +20,7 @@ const SkillItem = React.memo(
           className="w-6 h-6"
           width={24}
           height={24}
+          loading="lazy"
         />
         <span>{item.title}</span>
       </div>

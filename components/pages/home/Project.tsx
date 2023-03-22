@@ -23,6 +23,7 @@ const Highlight = React.memo(
           className="aspect-video self-center"
           width={600}
           height={338}
+          loading="lazy"
         />
         <span className="text-sm">{date}</span>
         <span className="text-xs ">{description}</span>

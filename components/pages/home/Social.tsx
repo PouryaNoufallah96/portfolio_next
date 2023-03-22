@@ -24,6 +24,7 @@ const SocialItem = ({ title, link, icon, delay }: ISocialProps) => {
           className="w-10 h-10 md:w-16 md:h-16"
           width={64}
           height={64}
+          loading="lazy"
         />
       </a>
     </motion.div>

@@ -1,33 +1,33 @@
 export const projectHighlights = [
   {
     title: "Questionnaire",
-    link: "https://services.ultradatagroup.ir/files/questionnaire.gif",
+    link: "/images/projects/questionnaire.gif",
     description: "Mobile market research application for making questionnaires",
     date: "May 2021 - Jun 2021",
   },
   {
     title: "Warehouse",
-    link: "https://services.ultradatagroup.ir/files/warehousemanagement.gif",
+    link: "/images/projects/warehousemanagement.gif",
     description:
       "Receipt application from the supplier for warehouse management of large-scale companies",
     date: "Feb 2021 - Apr 2021",
   },
   {
     title: "Visitor",
-    link: "https://services.ultradatagroup.ir/files/visitor.gif",
+    link: "/images/projects/visitor.gif",
     description: "Visitor mobile application for visiting tours",
     date: "Apr 2020 - Dec 2020",
   },
   {
     title: "Reporting",
-    link: "https://services.ultradatagroup.ir/files/managersreport.gif",
+    link: "/images/projects/managersreport.gif",
     description:
       "Web application for important management reports related to the company's financial issues",
     date: "Feb 2020 - Apr 2020",
   },
   {
     title: "Map",
-    link: "https://services.ultradatagroup.ir/files/map.gif",
+    link: "/images/projects/map.gif",
     description: "GIS web applicaion for tracking users on map",
     date: "Jan 2020 - March 2020",
   },
