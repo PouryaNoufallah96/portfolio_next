@@ -1,0 +1,11 @@
+export {default as HeroSection} from "./HeroSection";
+export {default as About} from "./About";
+export {default as DevInfo} from "./DevInfo";
+export {default as Experience} from "./Experience";
+export {default as Education} from "./Education";
+export {default as Certificate} from "./Certificate";
+export {default as Skill} from "./Skill";
+export {default as Project} from "./Project";
+export {default as Language} from "./Language";
+export {default as Social} from "./Social";
+export {default as Hire} from "./Hire";

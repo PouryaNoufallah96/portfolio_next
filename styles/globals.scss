@@ -1,0 +1,38 @@
+@tailwind base;
+@layer base {
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #1f2937 #111827;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 15px;
+    background: #111827;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #111827;
+    border-radius: 5px;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #1f2937;
+    border-radius: 14px;
+    border: 3px solid #111827;
+  }
+}
+
+@tailwind components;
+@layer components {
+  .fancy-card {
+    @apply flex flex-col gap-2 md:gap-4 shadow-lg border border-gray-900/30 bg-gray-800 rounded-md  p-2 md:p-4  transition-all ease-in hover:shadow-2xl;
+  }
+}
+@tailwind utilities;
+@layer utilities {
+ 
+}
+
+@import "main";
