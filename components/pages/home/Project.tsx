@@ -17,13 +17,10 @@ const Highlight = React.memo(
     return (
       <div className="fancy-card">
         <span className="text-sm md:text-base text-semibold md:font-bold text-center">{title}</span>
-        <Image
+        <img
           src={link}
           alt={title}
           className="aspect-video self-center"
-          width={600}
-          height={338}
-          loading="lazy"
         />
         <span className="text-sm">{date}</span>
         <span className="text-xs ">{description}</span>
