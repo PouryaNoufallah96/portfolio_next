@@ -69,7 +69,7 @@ const Projects = () => {
       <Card title="Projects">
         <section className="flex flex-col gap-4">
           <p className="font-bold mb-4">Highlights</p>
-          <div className="grid grid-cols-1  lg:grid-cols-5 gap-4">
+          <div className="grid grid-cols-1  lg:grid-cols-4 gap-4">
             {projectHighlights.map(
               (item: IProjectHighlightProps, index: number) => (
                 <Highlight key={`highlight_${index}`} {...item} />
