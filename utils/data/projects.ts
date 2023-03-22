@@ -24,13 +24,7 @@ export const projectHighlights = [
     description:
       "Web application for important management reports related to the company's financial issues",
     date: "Feb 2020 - Apr 2020",
-  },
-  {
-    title: "Map",
-    link: "/images/projects/map.gif",
-    description: "GIS web applicaion for tracking users on map",
-    date: "Jan 2020 - March 2020",
-  },
+  }
 ];
 
 
