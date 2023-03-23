@@ -57,6 +57,13 @@ export const otherProject = [
     date: "Mar 2021 - Jun 2021",
   },
   {
+    title: "Bourse On Steroid",
+    link: "https://bourseempowered.com",
+    description:
+      "A Trade bot that uses AI and make algorithms to make the best decisions for you",
+    date: "Feb 2021 - Aug 2021",
+  },
+  {
     title: "Warehouse",
     link: "https://services.ultradatagroup.ir",
     description:
