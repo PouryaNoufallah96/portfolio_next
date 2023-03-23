@@ -61,7 +61,7 @@ const HeroSection = ({ name, descriptions }: IHeroSectionProps) => {
             className="rounded-full w-32 h-32 md:w-64 md:h-64"
             width={256}
             height={256}
-            loading="lazy"
+            priority
           />
           <h1 className="text-2xl sm:text:3xl md:text-4xl lg:text-5xl xl:text-7xl font-bold">
             {"{{"}

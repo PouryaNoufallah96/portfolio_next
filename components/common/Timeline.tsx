@@ -32,7 +32,7 @@ const TimelineItem = React.memo(
             }`}
           >
             <p className="mb-3 text-sm lg:text-base text-indigo-300">{item.date}</p>
-            <h4 className="mb-3 font-bold  text-base lg:text-2xl">{item.title}</h4>
+            <p className="mb-3 font-bold  text-base lg:text-2xl">{item.title}</p>
             <p className="text-xs lg:text-base leading-snug text-gray-50 text-opacity-100">
               {item.description}
             </p>

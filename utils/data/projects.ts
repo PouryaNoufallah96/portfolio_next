@@ -1,32 +1,3 @@
-export const projectHighlights = [
-  {
-    title: "Questionnaire",
-    link: "/images/projects/questionnaire.gif",
-    description: "Mobile market research application for making questionnaires",
-    date: "May 2021 - Jun 2021",
-  },
-  {
-    title: "Warehouse",
-    link: "/images/projects/warehousemanagement.gif",
-    description:
-      "Receipt application from the supplier for warehouse management of large-scale companies",
-    date: "Feb 2021 - Apr 2021",
-  },
-  {
-    title: "Visitor",
-    link: "/images/projects/visitor.gif",
-    description: "Visitor mobile application for visiting tours",
-    date: "Apr 2020 - Dec 2020",
-  },
-  {
-    title: "Reporting",
-    link: "/images/projects/managersreport.gif",
-    description:
-      "Web application for important management reports related to the company's financial issues",
-    date: "Feb 2020 - Apr 2020",
-  }
-];
-
 
 export const otherProject = [
   {
@@ -74,16 +45,42 @@ export const otherProject = [
     date: "Aug 2021 - Oct 2021",
   },
   {
+    title: "Questionnaire",
+    link: "https://services.ultradatagroup.ir",
+    description: "Mobile market research application for making questionnaires",
+    date: "May 2021 - Jun 2021",
+  },
+  {
     title: "Collection",
     link: "https://services.ultradatagroup.ir",
     description: "Mobile collection application for the processes of collecting and receiving money from the customer",
     date: "Mar 2021 - Jun 2021",
   },
   {
+    title: "Warehouse",
+    link: "https://services.ultradatagroup.ir",
+    description:
+      "Receipt application from the supplier for warehouse management of large-scale companies",
+    date: "Feb 2021 - Apr 2021",
+  },
+  {
     title: "Zopirus",
     link: "https://zopirus.com",
     description: "Cyber Security Assessment & Awareness",
     date: "Sep 2020 - Feb 2021",
+  },
+  {
+    title: "Visitor",
+    link: "/images/projects/visitor.gif",
+    description: "Visitor mobile application for visiting tours",
+    date: "Apr 2020 - Dec 2020",
+  },
+  {
+    title: "Reporting",
+    link: "/images/projects/managersreport.gif",
+    description:
+      "Web application for important management reports related to the company's financial issues",
+    date: "Feb 2020 - Apr 2020",
   },
   {
     title: "Portfolio",
