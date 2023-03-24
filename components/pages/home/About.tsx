@@ -36,8 +36,8 @@ const About = () => {
           I&apos;m familiar with microservices architecture. I have used tools
           such as Masstransit, RabbitMQ, and gRPC for communication between
           services. Additionally, I use clean and onion architecture for each
-          service with a DDD and CQRS approach using mediator as well as EFCore,
-          Dapper, Fluent API, and Fluent Validation.
+          service with a DDD and CQRS approach using MediatR as well as EFCore,
+          Dapper, Fluent API, Fluent Validation, AutoMapper and ...
         </p>
 
         <p>

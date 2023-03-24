@@ -16,6 +16,10 @@ export const skills = [
     icon: "nextjs",
   },
   {
+    title: "RemixJs",
+    icon: "remixjs",
+  },
+  {
     title: "VueJS",
     icon: "vuejs",
   },
