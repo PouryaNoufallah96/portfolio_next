@@ -260,6 +260,26 @@ export const skills = [
     icon: "azure",
   },
   {
+    title: "Azure Devops",
+    icon: "azure",
+  },
+  {
+    title: "CI/CD Pipelines",
+    icon: "azure",
+  },
+  {
+    title: "Agile",
+    icon: "azure",
+  },
+  {
+    title: "Scrum",
+    icon: "azure",
+  },
+  {
+    title: "Trello",
+    icon: "trello",
+  },
+  {
     title: "Git",
     icon: "git",
   },
