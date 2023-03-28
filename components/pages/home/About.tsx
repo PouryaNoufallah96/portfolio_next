@@ -10,10 +10,11 @@ const About = () => {
           experience, I bring a deep knowledge and understanding of software
           development to every project I work on. My skills include proficiency
           in .NET Core API for backend development and expertise in SQL Server
-          and MongoDB for database management. I&apos;m also highly skilled in
+          and MongoDB for database management. II&apos;m also highly skilled in
           Flutter for mobile application development and have extensive
-          experience using React, NextJS, Vue, NuxtJS, and Angular for web
-          application development.
+          experience using ReactJs, NextJS, RemixJS, VueJs, NuxtJS, and Angular
+          for web application development and i,m also fimiliar with CI/CD
+          pipelines in Azure DevOps and Agile/Scrum in Microsoft Azure.
         </p>
 
         <p>
@@ -51,7 +52,6 @@ const About = () => {
           module federation. I also have good experience using TailwindCSS and
           Bootstrap for UI frameworks.
         </p>
-
       </Card>
     </Container>
   );
