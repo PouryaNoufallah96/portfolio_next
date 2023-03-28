@@ -104,7 +104,11 @@ export const skills = [
     icon: "ocelot",
   },
   {
-    title: "rabbitmq",
+    title: "Rabbitmq",
+    icon: "rabbitmq",
+  },
+  {
+    title: "Mass Transit",
     icon: "rabbitmq",
   },
   {
