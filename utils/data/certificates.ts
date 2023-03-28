@@ -5,7 +5,7 @@ export const certificates = [
     date: "Issued Mar 2023",
   },
   {
-    title: "Udemy",
+    title: "EDUONIX",
     description: "Microfrontends with React,Nextjs,Vuejs: A Complete Developer's Guide",
     date: "Issued Jan 2023",
   },
