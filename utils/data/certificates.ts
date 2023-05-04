@@ -30,8 +30,8 @@ export const certificates = [
     date: "Issued May 2022",
   },
   {
-    title: "EDUONIX",
-    description: "Flutter Modular Micro Apps With Clean Architecture",
+    title: "Udemy",
+    description: "Flutter & Dart - The Complete Guide + Modular Micro Apps With Clean Architecture",
     date: "Issued Jan 2022",
   },
   {
@@ -70,8 +70,8 @@ export const certificates = [
     date: "Issued Mar 2020",
   },
   {
-    title: "EDUONIX",
-    description: "Flutter With Bloc 0-100 Development",
+    title: "Udemy",
+    description: "Flutter Bloc Essential Course",
     date: "Issued Aug 2019",
   },
   {
