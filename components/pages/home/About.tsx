@@ -38,7 +38,7 @@ const About = () => {
           such as Masstransit, RabbitMQ, and gRPC for communication between
           services. Additionally, I use clean and onion architecture for each
           service with a DDD and CQRS approach using MediatR as well as EFCore,
-          Dapper, Fluent API, Fluent Validation, AutoMapper and ...
+          Dapper, Fluent API, Fluent Validation, AutoMapper, Quartz task schedular and ...
         </p>
 
         <p>

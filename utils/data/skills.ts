@@ -120,6 +120,10 @@ export const skills = [
     icon: "dotnet",
   },
   {
+    title: "Quartz",
+    icon: "quartz",
+  },
+  {
     title: "Fluent Validation",
     icon: "dotnet",
   },
