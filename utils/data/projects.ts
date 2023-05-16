@@ -1,10 +1,11 @@
 
 export const otherProject = [
   {
-    title: "Master Arda",
-    link: "https://masterarda.com",
-    description: "Cargo & Shipping Services",
-    date: "Dec 2022 - Present",
+    title: "Market Research",
+    link: "https://ud-questionnaire.netlify.app",
+    description:
+      "You can create different campaigns with dynamic forms and questions to ask from market",
+    date: "Mar 2023 - Present",
   },
   {
     title: "Cybernod",
@@ -25,6 +26,12 @@ export const otherProject = [
     description:
       "An AI-powered search engine that puts skills at the forefront of the hiring process",
     date: "Dec 2021 - Present",
+  },
+  {
+    title: "Master Arda",
+    link: "https://masterarda.com",
+    description: "Cargo & Shipping Services",
+    date: "Dec 2022 - Jan 2023",
   },
   {
     title: "Survey App",
