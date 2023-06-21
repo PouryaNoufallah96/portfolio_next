@@ -52,18 +52,18 @@ const HeroSection = ({ name, descriptions }: IHeroSectionProps) => {
           id="tsparticles"
           init={particlesInit}
           options={links}
-          className="h-full w-full absolute"
+          className="absolute w-full h-full"
         />
-        <section className="h-full flex flex-col gap-10 justify-center items-center text-slate-100">
+        <section className="flex flex-col items-center justify-center h-full gap-10 text-slate-100">
           <Image
             src="/images/avatar.jpg"
             alt="Pourya Nofallah"
-            className="rounded-full w-32 h-32 md:w-64 md:h-64"
+            className="w-32 h-32 rounded-full md:w-64 md:h-64"
             width={256}
             height={256}
             priority
           />
-          <h1 className="text-2xl sm:text:3xl md:text-4xl lg:text-5xl xl:text-7xl font-bold">
+          <h1 className="text-2xl font-bold sm:text:3xl md:text-4xl lg:text-5xl xl:text-7xl">
             {"{{"}
             <span ref={nameEl}></span>
             {"}}"}
@@ -72,7 +72,7 @@ const HeroSection = ({ name, descriptions }: IHeroSectionProps) => {
           <h2 className="text-lg sm:text-xl md:text-2xl lg:text-3xl flex  gap-1.5">
             <span>I am</span>
             <TextTransition springConfig={presets.gentle}>
-              <span className=" underline decoration-purple-200">
+              <span className="underline  decoration-purple-200">
                 {descriptions[index % descriptions.length]}
               </span>
             </TextTransition>

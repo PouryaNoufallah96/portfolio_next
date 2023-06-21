@@ -1,0 +1,11 @@
+.earth {
+  width: 450px !important;
+  height: 450px !important;
+  transform: scale(1);
+}
+
+@media only screen and (max-width: 600px) {
+  .earth {
+    transform: scale(0.6);
+  }
+}

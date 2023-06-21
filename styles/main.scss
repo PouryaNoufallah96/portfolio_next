@@ -1,7 +1,13 @@
-
 @import "components/cursor.scss";
 
-body{
-  cursor: none;
-}
 
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
+body {
+  cursor: none;
+
+  width: 100%;
+  overflow-x: hidden;
+}
