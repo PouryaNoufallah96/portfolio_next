@@ -6,7 +6,7 @@ const About = () => {
       <Card title="Summary">
         <p>👋 Hello, My name is Pourya. I&apos;m 26 and i live in 🇮🇷</p>
         <p>
-          As a Senior Full-Stack Web | Mobile Developer with over 8 years of
+          As a Senior Full-Stack Web | Mobile Developer with over 9 years of
           experience, I bring a deep knowledge and understanding of software
           development to every project I work on. My skills include proficiency
           in .NET Core API for backend development and expertise in SQL Server

@@ -2,7 +2,7 @@ export const experiences = [
   {
     title: "UltraDataGroup · Full-time",
     description: "Full Stack Engineer - Tehran Province, Iran · Hybrid",
-    date: "Aug 2014 - Present · 8 yrs 10 mos",
+    date: "Aug 2014 - Present · 9 yrs 1 mos",
   },
   {
     title: "Cybernod · Full-time",

@@ -47,19 +47,19 @@ export const otherProject = [
   },
   {
     title: "Distributor",
-    link: "https://services.ultradatagroup.ir",
+    link: "https://services.ultradatagroup.ir/files/com.UD.Distributor5&Up.apk",
     description: "Distributed mobile application for distribution and return processes",
     date: "Aug 2021 - Oct 2021",
   },
   {
     title: "Questionnaire",
-    link: "https://services.ultradatagroup.ir",
+    link: "https://services.ultradatagroup.ir/files/com.UD.QuestionnaireApp.apk",
     description: "Mobile market research application for making questionnaires",
     date: "May 2021 - Jun 2021",
   },
   {
     title: "Collection",
-    link: "https://services.ultradatagroup.ir",
+    link: "https://services.ultradatagroup.ir/files/com.UD.Collection5&Up.apk",
     description: "Mobile collection application for the processes of collecting and receiving money from the customer",
     date: "Mar 2021 - Jun 2021",
   },
@@ -72,7 +72,7 @@ export const otherProject = [
   },
   {
     title: "Warehouse",
-    link: "https://services.ultradatagroup.ir",
+    link: "https://services.ultradatagroup.ir/files/com.UD.WarehouseManagementApp.apk",
     description:
       "Receipt application from the supplier for warehouse management of large-scale companies",
     date: "Feb 2021 - Apr 2021",
@@ -85,13 +85,13 @@ export const otherProject = [
   },
   {
     title: "Visitor",
-    link: "/images/projects/visitor.gif",
+    link: "https://services.ultradatagroup.ir/files/com.ultradatagroup.udplusApp.apk",
     description: "Visitor mobile application for visiting tours",
     date: "Apr 2020 - Dec 2020",
   },
   {
     title: "Reporting",
-    link: "/images/projects/managersreport.gif",
+    link: "http://5.160.13.238:2010/login",
     description:
       "Web application for important management reports related to the company's financial issues",
     date: "Feb 2020 - Apr 2020",
