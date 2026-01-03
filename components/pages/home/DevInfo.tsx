@@ -1,8 +1,13 @@
-import Lottie from "lottie-react";
+import dynamic from "next/dynamic";
 
 import { Container, CountUp } from "@/components/common";
 
 import { Client, Coffee, Done, Rocket } from "../../../public/lottie/";
+
+// Dynamically import Lottie with SSR disabled to prevent "document is not defined" error
+const Lottie = dynamic(() => import("lottie-react"), {
+  ssr: false,
+});
 
 const DevInfo = () => {
   const defaultOptions = {
