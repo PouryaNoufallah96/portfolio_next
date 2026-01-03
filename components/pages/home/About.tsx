@@ -4,53 +4,29 @@ const About = () => {
   return (
     <Container reverse>
       <Card title="Summary">
-        <p>👋 Hello, My name is Pourya. I&apos;m 26 and i live in 🇮🇷</p>
+        <p>👋 Hello, My name is Pourya. I&apos;m 29 and I live in 🇮🇷</p>
         <p>
-          As a Senior Full-Stack Web | Mobile Developer with over 9 years of
-          experience, I bring a deep knowledge and understanding of software
-          development to every project I work on. My skills include proficiency
-          in .NET Core API for backend development and expertise in SQL Server
-          and MongoDB for database management. II&apos;m also highly skilled in
-          Flutter for mobile application development and have extensive
-          experience using ReactJs, NextJS, RemixJS, VueJs, NuxtJS, and Angular
-          for web application development and i,m also fimiliar with CI/CD
-          pipelines in Azure DevOps and Agile/Scrum in Microsoft Azure.
+          Senior Full-Stack Developer with 12+ years of experience building enterprise-grade distributed systems using .NET, Next.js, and Flutter. I specialize in Domain-Driven Design, microservices architecture, and AI-integrated platforms for complex business domains.
         </p>
 
         <p>
-          Throughout my career, I have demonstrated a solid ability to create
-          high-quality software that meets business needs and delivers value to
-          end users. I am highly adaptable and able to work well both
-          independently and as part of a team, and I am always looking for new
-          challenges and opportunities to learn and grow as a developer.
+          <strong>Recent Work:</strong> I designed a 10+ microservices platform with MassTransit, RabbitMQ, Saga orchestration, and gRPC inter-service communication. I architected a modular monolith cybersecurity platform with Azure OpenAI integration, implementing a RAG pipeline using pgvector for semantic search and AI-powered vulnerability analysis. I also developed an enterprise Flutter B2B application (50K+ LOC) with real-time SignalR integration, GPS tracking, and offline-first architecture.
         </p>
 
         <p>
-          Whether working on a mobile app, web application, or backend system, I
-          am committed to delivering software that is efficient, reliable, and
-          scalable. I take pride in my work and am passionate about creating
-          software that makes a real difference in people&apos;s lives.
+          <strong>Technical Expertise:</strong> Domain-Driven Design (DDD) and CQRS with Event Sourcing in production environments • Microservices & Modular Monolith architectural patterns with demonstrated ability to evaluate trade-offs • AI/ML Integration (Azure OpenAI, GPT-4, text embeddings, vector search, RAG) • AI Agentic Development with Claude Code and Cursor • Full-stack (.NET 10, Next.js 16, React 19, Flutter Bloc) • Event-driven architecture (MassTransit, RabbitMQ, EventStoreDB, SignalR) • Comprehensive testing (Unit, Integration, E2E, Architecture, Mutation)
         </p>
 
         <p>
-          During my experience as a senior full-stack developer in a company,
-          I&apos;m familiar with microservices architecture. I have used tools
-          such as Masstransit, RabbitMQ, and gRPC for communication between
-          services. Additionally, I use clean and onion architecture for each
-          service with a DDD and CQRS approach using MediatR as well as EFCore,
-          Dapper, Fluent API, Fluent Validation, AutoMapper, Quartz task schedular and ...
+          <strong>Tech Stack:</strong> Backend: .NET Core/10, C#, EF Core, PostgreSQL, SQL Server, MongoDB, Redis • Frontend: React, Next.js, Vue, Nuxt, Angular, TailwindCSS • Mobile: Flutter (Bloc), Clean Architecture • Infrastructure: Docker, Kubernetes, Azure DevOps, CI/CD automation • AI Tools: Claude Code, Cursor, Azure OpenAI, LangChain • Observability: OpenTelemetry, Serilog, Grafana, Elasticsearch, Kibana
         </p>
 
         <p>
-          For mobile application development, I use Flutter with bloc state
-          management and clean architecture and rely on Getit for dependency
-          injection. For web application development, I am experienced in using
-          Vue, Nuxt, React, Next, and Angular, with expertise in Vuex and Pinia
-          state management for Vue, and Redux, Redux Toolkit, RTKQuery, Context
-          API, React hooks for react and RxJS in Angular. I am also familiar
-          with modular programming and micro frontend architecture using Webpack
-          module federation. I also have good experience using TailwindCSS and
-          Bootstrap for UI frameworks.
+          <strong>Architectural Philosophy:</strong> Strong advocate for Clean Architecture, Onion Architecture, and Vertical Slice Architecture. Proficient in both microservices and modular monolith patterns, making architecture decisions based on team structure, business requirements, and technical constraints. Committed to TDD, BDD, SOLID principles, and Agile/Scrum delivery.
+        </p>
+
+        <p>
+          <strong>AI & Modern Development:</strong> Expert in leveraging Claude Code and Cursor for rapid prototyping, code generation, and architectural design. Skilled in context engineering and prompt engineering for LLM-based development workflows, enabling significant productivity gains in complex refactoring and greenfield projects.
         </p>
       </Card>
     </Container>

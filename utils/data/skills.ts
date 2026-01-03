@@ -355,4 +355,204 @@ export const skills = [
     title: "Figma",
     icon: "figma",
   },
+  {
+    title: "Azure OpenAI",
+    icon: "azure",
+  },
+  {
+    title: "Claude Code",
+    icon: "ai",
+  },
+  {
+    title: "Cursor AI",
+    icon: "ai",
+  },
+  {
+    title: "RAG (Retrieval-Augmented Generation)",
+    icon: "ai",
+  },
+  {
+    title: "pgvector",
+    icon: "postgres",
+  },
+  {
+    title: "Vector Search",
+    icon: "ai",
+  },
+  {
+    title: "Prompt Engineering",
+    icon: "ai",
+  },
+  {
+    title: "Context Engineering",
+    icon: "ai",
+  },
+  {
+    title: "LangChain",
+    icon: "ai",
+  },
+  {
+    title: "GPT-4",
+    icon: "ai",
+  },
+  {
+    title: "Text Embeddings",
+    icon: "ai",
+  },
+  {
+    title: ".NET Aspire",
+    icon: "dotnet",
+  },
+  {
+    title: "PostgreSQL",
+    icon: "postgres",
+  },
+  {
+    title: "Kubernetes",
+    icon: "kubernetes",
+  },
+  {
+    title: "OpenTelemetry",
+    icon: "observability",
+  },
+  {
+    title: "Grafana",
+    icon: "grafana",
+  },
+  {
+    title: "Prometheus",
+    icon: "prometheus",
+  },
+  {
+    title: "EventStoreDB",
+    icon: "dotnet",
+  },
+  {
+    title: "Event Sourcing",
+    icon: "dotnet",
+  },
+  {
+    title: "Saga Pattern",
+    icon: "dotnet",
+  },
+  {
+    title: "YARP",
+    icon: "dotnet",
+  },
+  {
+    title: "Zustand",
+    icon: "reactjs",
+  },
+  {
+    title: "TanStack Query",
+    icon: "reactjs",
+  },
+  {
+    title: "React 19",
+    icon: "reactjs",
+  },
+  {
+    title: "Turborepo",
+    icon: "webpack",
+  },
+  {
+    title: "Vertical Slice Architecture",
+    icon: "cleanarch",
+  },
+  {
+    title: "TDD",
+    icon: "dotnet",
+  },
+  {
+    title: "BDD",
+    icon: "dotnet",
+  },
+  {
+    title: "Architecture Testing",
+    icon: "dotnet",
+  },
+  {
+    title: "Mutation Testing",
+    icon: "dotnet",
+  },
+  {
+    title: "TanStack Start",
+    icon: "reactjs",
+  },
+  {
+    title: "Clerk",
+    icon: "auth",
+  },
+  {
+    title: "oRPC",
+    icon: "rpc",
+  },
+  {
+    title: "tRPC",
+    icon: "trpc",
+  },
+  {
+    title: "Better Auth",
+    icon: "auth",
+  },
+  {
+    title: "Vercel AI SDK",
+    icon: "vercel",
+  },
+  {
+    title: "Supabase",
+    icon: "supabase",
+  },
+  {
+    title: "Drizzle ORM",
+    icon: "drizzle",
+  },
+  {
+    title: "Technical Leadership",
+    icon: "leadership",
+  },
+  {
+    title: "Azure AI Foundry",
+    icon: "azure",
+  },
+  {
+    title: "Large Language Models (LLM)",
+    icon: "ai",
+  },
+  {
+    title: "C4 Model",
+    icon: "architecture",
+  },
+  {
+    title: "Software Documentation",
+    icon: "documentation",
+  },
+  {
+    title: "Stripe",
+    icon: "stripe",
+  },
+  {
+    title: "SaaS",
+    icon: "saas",
+  },
+  {
+    title: "UML",
+    icon: "uml",
+  },
+  {
+    title: "GitHub Actions",
+    icon: "github",
+  },
+  {
+    title: "Kafka",
+    icon: "kafka",
+  },
+  {
+    title: "Xamarin",
+    icon: "xamarin",
+  },
+  {
+    title: ".NET MAUI",
+    icon: "maui",
+  },
 ];

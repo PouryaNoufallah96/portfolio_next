@@ -8,17 +8,23 @@ export const otherProject = [
     date: "Mar 2023 - Present",
   },
   {
-    title: "Cybernod",
+    title: "Cybernod - Cybersecurity Assessment Platform",
     link: "https://cybernod.com",
     description:
-      "Cyber Security Assessment & Awareness",
+      "Modular monolith with Azure OpenAI integration, RAG pipeline using pgvector for semantic search, AI-powered vulnerability analysis with GPT-4. Deployed via .NET Aspire to Azure Container Apps with OpenTelemetry, Grafana, Elasticsearch. Tech: .NET 10, PostgreSQL/pgvector, Next.js 16, Turborepo",
     date: "Feb 2022 - Present",
   },
   {
-    title: "UltraBusiness",
+    title: "UltraBusiness - Enterprise Microservices Platform",
     link: "",
-    description: "Microservices For Small Businesses",
+    description: "10+ microservices with MassTransit, RabbitMQ, Saga orchestration, gRPC inter-service communication, YARP API Gateway, comprehensive testing (Unit, Integration, E2E, Architecture, Mutation). Clean Architecture with DDD, CQRS, Event Sourcing. Tech: .NET 10, Next.js 16, SQL Server, Redis",
     date: "Jan 2022 - Present",
+  },
+  {
+    title: "UDPlus - Enterprise Flutter Mobile App",
+    link: "",
+    description: "Enterprise B2B super app (50K+ LOC) for sales force automation with Flutter Bloc, Clean Architecture, real-time SignalR integration, GPS tracking, offline-first architecture, multi-role support (Sales Reps, Distributors, Warehouse Managers)",
+    date: "2020 - Present",
   },
   {
     title: "Sandbaad AI",
