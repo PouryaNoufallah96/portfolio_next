@@ -1,36 +1,62 @@
-
 export const otherProject = [
   {
+    title: "LSevin",
+    link: "https://lsevin.vercel.app/fa/on-boarding",
+    description: "L Sevin Medical Tourism",
+    date: "Apr 2025 - Present",
+  },
+  {
+    title: "Cybernod",
+    link: "https://www.cybernod.com",
+    description: "Cyber Security Assessment & Awareness",
+    date: "Mar 2025 - Present",
+  },
+  {
+    title: "Ultra Patina Portfolio",
+    link: "https://shabnamalavi.vercel.app",
+    description: "Exploring the boundaries of creativity through a unique blend of traditional techniques and digital innovation.",
+    date: "Mar 2025 - Present",
+  },
+  {
+    title: "Digital Intelligence - Blockchain Address Scanner",
+    link: "hthttps://miniapp.cybernod.com",
+    description: "A telegram mini app thatSearch for wallet intelligence, Dark web findings and related activities.",
+    date: "Feb 2025 - Present",
+  },
+  {
+    title: "Digital Intelligence - Scan Darkweb Data",
+    link: "https://trace.cybernod.com",
+    description: "Search for intelligence data across different sources with our advanced digital intelligence platform.",
+    date: "Jan 2025 - Present",
+  },
+  {
+    title: "LalaBix",
+    link: "https://www.lalabix.com",
+    description: "Lalabix is an affordable online shopping destination in the UAE.",
+    date: "May 2024 - Present",
+  },
+  {
+    title: "Dr Bull Trader",
+    link: "https://drbulltrader.com",
+    description: "Discover a powerful online trading platform designed for traders of all skill levels",
+    date: "Dec 2023 - Present",
+  },
+  {
     title: "Market Research",
-    link: "https://ud-questionnaire.netlify.app",
-    description:
-      "You can create different campaigns with dynamic forms and questions to ask from market",
+    link: "https://marketresearch.ronixtools.com",
+    description: "You can create different campaigns with dynamic forms and questions to ask from market",
     date: "Mar 2023 - Present",
   },
   {
-    title: "Cybernod - Cybersecurity Assessment Platform",
-    link: "https://cybernod.com",
-    description:
-      "Modular monolith with Azure OpenAI integration, RAG pipeline using pgvector for semantic search, AI-powered vulnerability analysis with GPT-4. Deployed via .NET Aspire to Azure Container Apps with OpenTelemetry, Grafana, Elasticsearch. Tech: .NET 10, PostgreSQL/pgvector, Next.js 16, Turborepo",
-    date: "Feb 2022 - Present",
-  },
-  {
-    title: "UltraBusiness - Enterprise Microservices Platform",
-    link: "",
-    description: "10+ microservices with MassTransit, RabbitMQ, Saga orchestration, gRPC inter-service communication, YARP API Gateway, comprehensive testing (Unit, Integration, E2E, Architecture, Mutation). Clean Architecture with DDD, CQRS, Event Sourcing. Tech: .NET 10, Next.js 16, SQL Server, Redis",
+    title: "UltraBusiness",
+    link: "https://ultrabusiness.com",
+    description: "Microservices For Small Businesses (COMMING SOON)",
     date: "Jan 2022 - Present",
   },
   {
-    title: "UDPlus - Enterprise Flutter Mobile App",
-    link: "",
-    description: "Enterprise B2B super app (50K+ LOC) for sales force automation with Flutter Bloc, Clean Architecture, real-time SignalR integration, GPS tracking, offline-first architecture, multi-role support (Sales Reps, Distributors, Warehouse Managers)",
-    date: "2020 - Present",
-  },
-  {
-    title: "Sandbaad AI",
+    title: "Sandbad",
     link: "https://sandbaadai.com",
-    description:
-      "An AI-powered search engine that puts skills at the forefront of the hiring process",
+    description: "An AI-powered search engine that puts skills at the forefront of the hiring process.",
     date: "Dec 2021 - Present",
   },
   {
@@ -58,12 +84,6 @@ export const otherProject = [
     date: "Aug 2021 - Oct 2021",
   },
   {
-    title: "Questionnaire",
-    link: "https://services.ultradatagroup.ir/files/com.UD.QuestionnaireApp.apk",
-    description: "Mobile market research application for making questionnaires",
-    date: "May 2021 - Jun 2021",
-  },
-  {
     title: "Collection",
     link: "https://services.ultradatagroup.ir/files/com.UD.Collection5&Up.apk",
     description: "Mobile collection application for the processes of collecting and receiving money from the customer",
@@ -72,15 +92,13 @@ export const otherProject = [
   {
     title: "Bourse On Steroid",
     link: "https://bourseempowered.com",
-    description:
-      "A Trade bot that uses AI and make algorithms to make the best decisions for you",
+    description: "A Trade bot that uses AI and make algorithms to make the best decisions for you",
     date: "Feb 2021 - Aug 2021",
   },
   {
-    title: "Warehouse",
-    link: "https://services.ultradatagroup.ir/files/com.UD.WarehouseManagementApp.apk",
-    description:
-      "Receipt application from the supplier for warehouse management of large-scale companies",
+    title: "Warehouse Management",
+    link: "https://services.ultradatagroup.ir/files/WarehouseManagement.mp4",
+    description: "Receipt application from the supplier for warehouse management of large-scale companies",
     date: "Feb 2021 - Apr 2021",
   },
   {
@@ -91,19 +109,18 @@ export const otherProject = [
   },
   {
     title: "Visitor",
-    link: "https://services.ultradatagroup.ir/files/com.ultradatagroup.udplusApp.apk",
+    link: "https://services.ultradatagroup.ir/files/Visitor.mp4",
     description: "Visitor mobile application for visiting tours",
     date: "Apr 2020 - Dec 2020",
   },
   {
-    title: "Reporting",
-    link: "http://5.160.13.238:2010/login",
-    description:
-      "Web application for important management reports related to the company's financial issues",
+    title: "Manager's Report",
+    link: "https://services.ultradatagroup.ir/files/ManagersReport.mp4",
+    description: "Web application for important management reports related to the company's financial issues",
     date: "Feb 2020 - Apr 2020",
   },
   {
-    title: "Portfolio",
+    title: "Personal Portfolio",
     link: "https://pouryanofallah.netlify.app",
     description: "My Personal Website",
     date: "Feb 2019 - Feb 2019",
@@ -125,11 +142,5 @@ export const otherProject = [
     link: "https://services.ultradatagroup.ir",
     description: "Web application for configuring all company applications and services",
     date: "Jan 2017 - May 2018",
-  },
-  {
-    title: "+40 Web/Mobile Application | Rest Apis (Private Projects For Companies)",
-    link: "https://ultradatagroup.com",
-    description: "Developed +40 private projects such as web/mobile applications and web APIs",
-    date: "Aug 2014 - Present",
   },
 ];
